@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif !important;
+}
+
+#navbar{
+    background-color: white !important;
+    padding: 10px;
+}
+
+.navbar-brand{
+    font-size: 2rem  !important;
+    color:springgreen !important;
+}
+.navbar a{
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.img-fluid-animated{
+    width: 500px;
+
+}
+
+.menu_active{
+    font-weight: bold;
+    border-bottom: 2px solid rgb(255, 209, 94);
+    color:gold !important;
+}
+.navbar a:hover{
+    color:rgb(247, 178, 52) !important;
+}
+@media(max-width:1024px){
+    .img-fluid-animated{
+        width: 48vw;
+        height: 70vh;
+    
+    }
+}
+
+@media(max-width:991px){
+    .navbar-brand{
+        font-size: 1.5rem !important;
+    }
+    .menu-active{
+        font-weight: bold;
+        border-bottom: none;
+    }
+    .img-fluid-animated{
+        width: 90vw;
+        height: 65vh;
+    
+    }
+    
+}
+@media(max-width:768px){
+    .img-fluid-animated{
+        width: 80vw;
+        height: 75vh;
+    
+    }
+}
+@media(max-width:568px){
+    .img-fluid-animated{
+        width: 90vw;
+        height: 50vh;
+    
+    }
+}
+@media(max-width:640px){
+    .img-fluid-animated{
+        width: 85vw;
+        height: 33vh;
+    
+    }
+    
+    
+}
+
+/*******************************************
+Main landing section (Home Page)
+*************************************************/
+
+ #header{
+    width: 95%;
+    height: 100%;
+    margin-top: 70px;
+}
+#header h1{
+    margin: 0 0 10px 0 ;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+} 
+#header .brandname{
+color:springgreen;
+}
+#header h2{
+    font-size: 24px;
+    color: #484848;
+}
+#header .btn-get-started{
+    font-weight: 600px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 12px ;
+    transition: .5s;
+    color:orangered;
+    text-decoration: none;
+    border: 2px solid orange;
+}
+#header .btn-get-started:hover{
+    background: orange;
+    color: white;
+}
+
+.header-img{
+    text-align: right;
+}
+
+#footer{
+    text-align: center;
+    padding: 4.5px;
+
+}
+
+/* .header .img-fluid-animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down{
+    0%{transform: translateY(10px);}
+    100%{transform: translateY(-10px);}
+}
+@keyframes up-down{
+    0%{transform: translateY(10px);}
+    100%{transform: translateY(-10px);}
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
