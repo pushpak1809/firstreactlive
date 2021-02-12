@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/github.io/Firstprojectwithreact/static/css/main.4f0d5d6a.chunk.css",
+    "main.js": "/github.io/Firstprojectwithreact/static/js/main.ecc18401.chunk.js",
+    "main.js.map": "/github.io/Firstprojectwithreact/static/js/main.ecc18401.chunk.js.map",
+    "runtime-main.js": "/github.io/Firstprojectwithreact/static/js/runtime-main.05fc6d97.js",
+    "runtime-main.js.map": "/github.io/Firstprojectwithreact/static/js/runtime-main.05fc6d97.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/github.io/Firstprojectwithreact/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.15b63a7b.chunk.js": "/github.io/Firstprojectwithreact/static/js/2.15b63a7b.chunk.js",
+    "static/js/2.15b63a7b.chunk.js.map": "/github.io/Firstprojectwithreact/static/js/2.15b63a7b.chunk.js.map",
+    "index.html": "/github.io/Firstprojectwithreact/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/github.io/Firstprojectwithreact/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.4f0d5d6a.chunk.css.map": "/github.io/Firstprojectwithreact/static/css/main.4f0d5d6a.chunk.css.map",
+    "static/js/2.15b63a7b.chunk.js.LICENSE.txt": "/github.io/Firstprojectwithreact/static/js/2.15b63a7b.chunk.js.LICENSE.txt",
+    "static/media/appdev.b40ffde2.jpg": "/github.io/Firstprojectwithreact/static/media/appdev.b40ffde2.jpg",
+    "static/media/computer.b5d4ba47.jpg": "/github.io/Firstprojectwithreact/static/media/computer.b5d4ba47.jpg",
+    "static/media/digital.7b536622.jpg": "/github.io/Firstprojectwithreact/static/media/digital.7b536622.jpg",
+    "static/media/laptop.dec092d4.jpg": "/github.io/Firstprojectwithreact/static/media/laptop.dec092d4.jpg",
+    "static/media/software.5225a953.jpg": "/github.io/Firstprojectwithreact/static/media/software.5225a953.jpg",
+    "static/media/webdev.9a2dc644.jpg": "/github.io/Firstprojectwithreact/static/media/webdev.9a2dc644.jpg",
+    "static/media/webdev1.9e43456f.jpg": "/github.io/Firstprojectwithreact/static/media/webdev1.9e43456f.jpg",
+    "static/media/work.85b9a0ee.svg": "/github.io/Firstprojectwithreact/static/media/work.85b9a0ee.svg",
+    "static/media/workplace.a13a2e95.svg": "/github.io/Firstprojectwithreact/static/media/workplace.a13a2e95.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05fc6d97.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.15b63a7b.chunk.js",
+    "static/css/main.4f0d5d6a.chunk.css",
+    "static/js/main.ecc18401.chunk.js"
+  ]
+}
